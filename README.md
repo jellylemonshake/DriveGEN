@@ -1,4 +1,4 @@
-# Urban Flo
+# DriveGEN
 1. Keep frontend and backend in same project folder
 2. Install nodejs, jdk 17.0.2 x64, sumo win64 1.25.0 and relaunch vscode.
 3. Go to frontend>src>simulation-urls.ts 
