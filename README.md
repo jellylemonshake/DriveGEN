@@ -1,4 +1,6 @@
 # DriveGEN
+<img width="1175" height="736" alt="simulation" src="https://github.com/user-attachments/assets/82cce2d8-2738-4952-a0f1-04ee1cbe6775" />
+
 1. Keep frontend and backend in same project folder
 2. Install nodejs, jdk 17.0.2 x64, sumo win64 1.25.0 and relaunch vscode.
 3. Go to frontend>src>simulation-urls.ts 
