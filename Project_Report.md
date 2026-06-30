@@ -1,4 +1,4 @@
-# UrbanFlo: A Cloud-Native Real-Time Web Interface for SUMO-Based Urban Traffic Micro-Simulation
+# DriveGEN: A Cloud-Native Real-Time Web Interface for SUMO-Based Urban Traffic Micro-Simulation
 
 **Keywords:** Microscopic Traffic Simulation, SUMO, TraCI, libtraci, JNI, WebSocket, STOMP, React, Konva.js, Zustand, Machine Learning, Floating Car Data, Reinforcement Learning
 
